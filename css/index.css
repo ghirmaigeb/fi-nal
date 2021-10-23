@@ -57,7 +57,7 @@ nav a :active{
 }
 /* -----------//------------*/
 section{
-    background-image: url("/image/gg8.jpg");
+    background-image: url("/img/gg8.jpg");
     background-size:cover;
     height: 850px;
     font-size: 20px;
