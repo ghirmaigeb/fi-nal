@@ -1,0 +1,52 @@
+nav{
+    position: relative;
+    top: 0px;
+    background-color: powderblue;
+    list-style-type: none;
+    width: 100%;
+    word-spacing: 50px;
+    text-align: center;
+    position: fixed;
+    }
+nav li{
+    font-size: 30px;
+    display: inline;
+}
+nav li a{
+    text-decoration: none;
+}
+.contact{
+    background-color:wheat;
+    width: 100%;
+    height: 800px;
+    margin-top: 35px;
+    padding: 25px 20px;
+    /* position: static; */
+    border: 14px solid yellowgreen ;
+    border-radius: 40px;
+}
+
+form{
+    background-color:rgb(223, 202, 165);
+    width: 700px;
+    padding: 10px;
+    box-shadow: 5px 5px  rgb(250, 219, 219);
+    /* box-shadow: -3px -4px rgb(202, 147, 134); */
+    text-align: justify;
+}
+label{
+    font-size: 35px;
+}
+
+input{
+    border: 3px solid lightgray;
+    box-shadow: 4px 4px 3px gray;
+    margin: 10px 60px;
+    font-size: 25px;
+    float: right;
+}
+button{
+    border: 3px solid lightgray;
+    box-shadow: 4px 4px 3px gray;
+    margin: 10px 60px;  
+}
