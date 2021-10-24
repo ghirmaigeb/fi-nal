@@ -1,6 +1,7 @@
 nav{
     background-color: tomato;
     list-style-type: none;
+    border-radius: 10px;
     width: 100%;
     height: 60px;
     word-spacing: 50px;
@@ -17,12 +18,12 @@ nav li a{
     text-decoration: none;
 }
 #background{
-    background-image: url("/image/gg12.jpeg");
-    background-size: cover;
+    background-image: url("https://www.names.org/name-poster/Ghirmai-t85066f6b8233f5a3c7cd67ef39209a758a2caac2a53dc178bd702f8228e28ecek-hq.jpg");
+    background-size: contain;
     width: 100%;
     height: 800px;
     margin: 15px;
-    padding: 40px;
+    padding: 100px;
     text-align: center;
 }
 #status{
@@ -35,6 +36,10 @@ nav li a{
 p{
     font-size: 28px;
     text-align: center;
+    color: black;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 200px;
 }
 #education{
     background-color: lightsteelblue;
@@ -49,7 +54,7 @@ ul{
     padding: 40px;
 }
 ul li{
-
+list-style-type: initial;
 }
 #footer{
     background-color: lightgrey;
